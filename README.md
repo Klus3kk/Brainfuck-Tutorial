@@ -87,7 +87,7 @@ So the final results should look like this:
  0   3   0   0
  ^
 ```
-## hello world
+## Hello world
 Here's the basic program that writes "Hello World!" at the screen (here's when you use ASCII table c:)
 
 
