@@ -3,7 +3,7 @@ This repository consists of the easy-to-understand tutorial of Brainfuck with so
 ### WHAT is Brainfuck?
 Brainfuck is (or will be) the most complicated programming language you'll use because of how different the rules of writing are. The language is Turing-complete and it only consists of 8 operators. The language itself might be really challenging for begginers.
 ### What do you need?
-Firstly, you need a compiler/interpreter (you can download one from here: https://github.com/fabianishere/brainfuck, requires C/CMake to work). You can also use the online one: https://www.tutorialspoint.com/execute_brainfk_online.php. Also, make sure that you have an ASCII chart ready because you'll use it A LOT for writing text as the output. Also, the calculator, you'll see why.
+Firstly, you need a compiler/interpreter (you can download one from here: https://github.com/fabianishere/brainfuck, requires C/CMake to work). You can also use the online one: https://www.tutorialspoint.com/execute_brainfk_online.php. Also, make sure that you have an ASCII chart ready because you'll use it A LOT for writing text as the output. Also, the calculator, for calculations.
 ### BASICS
 Let's start from explaining what does each operator do: (tabelka)
 * < - moves the pointer to the right by one block
