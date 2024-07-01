@@ -71,7 +71,9 @@ Final results:
  0   0   1  -1
          ^
 ```
-<br><br>
+
+Next one:
+
 
 ```
 +++[->+<]
