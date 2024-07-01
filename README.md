@@ -28,15 +28,15 @@
 This repository consists of the easy-to-understand tutorial of Brainfuck with some examples of usage.
 
 
-### WHAT is Brainfuck?
+## WHAT is Brainfuck?
 Brainfuck is (or will be) the most complicated programming language you'll use because of how different the rules of writing are. The language is Turing-complete and it only consists of 8 operators. The language itself might be really challenging for begginers.
 
 
-### What do you need?
+## What do you need?
 Firstly, you need a compiler/interpreter (you can download one from here: https://github.com/fabianishere/brainfuck, requires C/CMake to work). You can also use the online one: https://www.tutorialspoint.com/execute_brainfk_online.php. Also, make sure that you have an ASCII chart ready because you'll use it A LOT for writing text as the output. Also, the calculator, for calculations.
 
 
-### BASICS
+## BASICS
 Let's start from explaining what does each operator do:
 
 
@@ -53,7 +53,7 @@ Let's start from explaining what does each operator do:
 Any other characters are considered as comments. All memory blocks are set to zero at the beggining.
 
 
-### EXAMPLES
+## EXAMPLES
 Here are some examples:
 
 
@@ -87,7 +87,7 @@ So the final results should look like this:
  0   3   0   0
  ^
 ```
-### hello world
+## hello world
 Here's the basic program that writes "Hello World!" at the screen (here's when you use ASCII table c:)
 
 
